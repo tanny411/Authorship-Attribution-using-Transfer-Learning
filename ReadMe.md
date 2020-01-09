@@ -1,11 +1,11 @@
 # Authorship Attribution using Transfer Learning
 
 ## Table of contents
-- [Overview](#sub-heading-2)
-- [Paper Abstract](#sub-heading-3)
-- [Datasets](#sub-heading-4)
-- [Trained Models](#sub-heading-5)
-- [Future Work](#sub-heading-6)
+- [Overview](#Overview)
+- [Paper Abstract](#Paper Abstract)
+- [Datasets](#Datasets)
+- [Trained Models](#Trained Models)
+- [Future Work](#Future Work)
 ## Overview 
 
 ## Paper Abstract
