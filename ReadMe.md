@@ -2,10 +2,10 @@
 
 ## Table of contents
 - [Overview](#Overview)
-- [Paper Abstract](#Paper Abstract)
+- [Paper Abstract](#Paper-Abstract)
 - [Datasets](#Datasets)
-- [Trained Models](#Trained Models)
-- [Future Work](#Future Work)
+- [Trained Models](#Trained-Models)
+- [Future Work](#Future-Work)
 ## Overview 
 
 ## Paper Abstract
