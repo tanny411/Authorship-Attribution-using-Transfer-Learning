@@ -33,7 +33,7 @@ This repository is structured in the following way:
 - [Wikipedia corpus](https://data.mendeley.com/datasets/3ph3n78fp7/1?fbclid=IwAR2qOFI27mVQoEMdJBUinL0k_zCjzEMpnFk74cKANhil7oKGSgbT_6E8keI): The Bangla Wikipedia dump collected on 10th June, 2019. Cleaned and arranged into samples in csv.
 
 #### Authorship Attribution datasets:
-- [Dataset1](https://data.mendeley.com/datasets/6d9jrkgtvv/1?fbclid=IwAR09nbvU3G4tNoI6zuLoL3FMhvggdE6RuLFOyKMHubrHd7PivLGJeCTch9k): A dataset with sample Bangla texts from 16 authors. Equally partitioned with each document having 750 words. [Paper reference]
+- [Dataset1](https://data.mendeley.com/datasets/6d9jrkgtvv/1?fbclid=IwAR09nbvU3G4tNoI6zuLoL3FMhvggdE6RuLFOyKMHubrHd7PivLGJeCTch9k): A dataset with sample Bangla texts from 16 authors. Equally partitioned with each document having 750 words. [Paper reference](https://arxiv.org/abs/2001.05316)
 - [Dataset2](https://data.mendeley.com/datasets/w9wkd7g43f/2?fbclid=IwAR1dHxYWLGGkSTLMncPMXxzkNSTKpOJrtJJTGlufeYeTnLTfevo3RzM-uG4): A dataset consisting of text samples from 6 authors with 350 samples per author. [Paper reference](https://ieeexplore.ieee.org/document/8631977).
 
 ## Trained Models
