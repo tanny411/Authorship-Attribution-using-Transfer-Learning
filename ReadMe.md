@@ -50,6 +50,14 @@ This repository is structured in the following way:
 ## Trained Models
 All trained model checkpoints are provided in the folder [Model Checkpoints](https://github.com/tanny411/Authorship-Attribution-using-Transfer-Learning/blob/master/Model%20Checkpoints). The language models have been trained on Bangla news corpus and Wikipedia dumps. Further, there are 3 variations to each. Word, Subword and Character level tokenized, making a total of 6 pre-trained language models.
 
+### Reproducibility
+To reproduce the pre-training, fine-tuning, or classification of these models:
+- Clone the repository
+- Download relevant files/checkpoints from [this drive link]() and put them inside `Model Checkpoints` folder. Maintain the folder structure as in the drive folder.
+- Make sure you have Python3.x
+- Install requirements.txt. `pip install requirements.txt`
+- Run the python notebooks (extra dependencies are installed in the notebook)
+
 ## Future Work:
 - Assessing application of pure-Bangla tansformer based pre-trained models.
 - CNN architecture based transfer learning for authorship attribution.
