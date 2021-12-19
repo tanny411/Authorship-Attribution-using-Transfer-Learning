@@ -1,1 +1,1 @@
-Authorship attribution in Bangla literature was carried out using pre-trained multilingual BERT model. Huggingfaces implementation was merged with fastai to perform this task. The notebooks follow a tutorial and some excerpts from the tutorial are kept intact for reference.
+Authorship attribution in Bangla literature was carried out using pre-trained multilingual BERT model. Huggingface's implementation was merged with fastai to perform this task. The notebooks follow a tutorial and some excerpts from the tutorial are kept intact for reference.
