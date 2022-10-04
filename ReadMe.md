@@ -59,6 +59,6 @@ To reproduce the pre-training, fine-tuning, or classification of these models:
 - Run the python notebooks (extra dependencies are installed in the notebook)
 
 ## Future Work:
-- Assessing application of pure-Bangla tansformer based pre-trained models.
-- CNN architecture based transfer learning for authorship attribution.
+- [x] Assessing application of pure-Bangla tansformer based pre-trained models.
+- [x] CNN architecture based transfer learning for authorship attribution.
 - Cross-lingual authorship attribution.
